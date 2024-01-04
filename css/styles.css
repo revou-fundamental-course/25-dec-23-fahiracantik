@@ -22,6 +22,10 @@ header {
     margin-bottom: 2em;
 }
 
+h4{
+    text-align: center;
+}
+
 .section{
     display: flex;
     margin-bottom: 1em;
@@ -129,6 +133,7 @@ hr {
     color: #3498db;
     background-color: #fff;
     transition: background-color 0.3s, color 0.3s;
+    margin-top: 30px;
   }
 
   .custom-button:hover {
